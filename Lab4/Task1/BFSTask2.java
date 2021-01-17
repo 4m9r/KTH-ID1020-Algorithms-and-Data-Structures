@@ -2,7 +2,7 @@
         Created:2020-10-01
         Last updated: 2020-10-05
         Author: Amir Ali Safizadeh.
-        Purpose of the code: Find a path between to given vertices by searching the breadth of the graph first.
+        Purpose of the code: Find a path between two given vertices by searching the breadth of the graph first.
         Basically the shortest path between two given vertices
  */
 
